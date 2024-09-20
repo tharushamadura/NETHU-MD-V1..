@@ -11,7 +11,7 @@ ALIVE_MSG: process.env.ALIVE_MSG || "Hello I'm alive now",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 SUDO_NB: process.env.SUDO_NB || "94704227534",
-OWNER_NAME: process.env.OWNER_NAME || "THARUSHA ",
+OWNER_NAME: process.env.OWNER_NAME || " ",
 BOT_NAME: process.env.BOT_NAME || "NETHU-MD",
 AUTO_VOICE: process.env.AUTO_VOICE || "true"
 
